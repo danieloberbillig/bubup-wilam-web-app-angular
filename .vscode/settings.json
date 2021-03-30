@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/79db5970-32da-4c1d-aad9-c89fb310d4dc/resourceGroups/ParentView/providers/Microsoft.Web/sites/bubup-wilam-web-app-angular",
+    "appService.deploySubpath": "."
+}

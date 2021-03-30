@@ -8,13 +8,17 @@ import { AppComponent } from './app.component';
 import { AuthModule } from '@auth0/auth0-angular';
 import { AuthButtonComponent } from './auth-button/auth-button.component';
 import { UserProfileComponent } from './user-profile/user-profile.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { HomeComponent } from './home/home.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     AuthButtonComponent,
-    UserProfileComponent
+    UserProfileComponent,
+    DashboardComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
